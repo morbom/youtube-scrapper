@@ -7,6 +7,4 @@ A YouTube scraper is a tool or script that extracts data from YouTube. It can co
 
 # Youtube scrapping script
 
-
-
 After this the results will be stored in an Excel file ❤️
