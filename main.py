@@ -24,8 +24,6 @@ def getChannelUrl():
         map(lambda a: a.get_attribute("href"), allChannelList)))
     return links
 
-
-# get channel's details
 def getChannelDetails(urls):
     details = []
     for url in urls:
