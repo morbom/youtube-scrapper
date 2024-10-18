@@ -25,6 +25,7 @@ def getChannelUrl():
     return links
 
 
+# get channel's details
 def getChannelDetails(urls):
     details = []
     for url in urls:
