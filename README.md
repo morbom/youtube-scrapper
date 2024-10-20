@@ -5,8 +5,6 @@ A YouTube scraper is a tool or script that extracts data from YouTube. It can co
 - ```pip install -r requirements.txt``` this will install all the required packages
 - ```python -u main.py``` to run the script 
 
-# Youtube scrapping script
-
 
 
 
